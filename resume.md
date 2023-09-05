@@ -6,7 +6,7 @@
 <img src= "https://upload.wikimedia.org/wikipedia/en/1/16/Appalachian_State_University_logo_2.png" width=100 />  
 # Summary
 Persuing a degree in Recreation Management and Geography and passionate about keeping the outdoors accessible and enjoying them sustainably. 
-#Education
+# Education
 B.S. Recreation Management
 Minor in Geography/GIS certification
 Appalachian State University '24
